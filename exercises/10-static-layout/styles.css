@@ -35,4 +35,7 @@ header {
 nav,
 section {
 	padding: 100px 0;
+	display: inline-flex;
+	width: 49%;
+	margin: 0;
 }
